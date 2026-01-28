@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m learning about Transport Data Science and Visualisation
+- 💬 Ask me about Music and Anime (:
 
 <!--
 **weemuk/weemuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
