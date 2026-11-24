@@ -1,18 +1,15 @@
-## Hi there 👋
-- 🔭 I’m learning about Transport Data Science and Visualisation
-- 💬 Ask me about Music and Anime (:
+### Hi there, I'm Germán Sulca 👋
 
-<!--
-**weemuk/weemuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **MSc Transport Planning and Environment** and constantly learning about data science, spatial analysis, and transport modelling to design sustainable, equitable urban systems. 
 
-Here are some ideas to get you started:
+- I’m currently exploring advanced transport network assignments, active travel accessibility, and spatial equity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack & Tools
+
+* **Transport Modelling & GIS:** VISSIM, Aimsun, VISUM, OmniTRANS, QGIS, Multimodal Routing Engines
+* **Languages & Scripting:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+* **Publishing & Web:** ![Quarto](https://img.shields.io/badge/Quarto-475A97?style=flat&logo=quarto&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+---
